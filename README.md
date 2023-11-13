@@ -3,7 +3,7 @@
 <h3 align="center">Web & IT Dev | Lifelong Learner | Tech Enthusiast | Code Explorer</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amirsouaf&label=Profile%20views&color=0e75b6&style=flat" alt="amirsouaf" /> </p>
+<p align="left"> <img height="250px" src="https://komarev.com/ghpvc/?username=amirsouaf&label=Profile%20views&color=0e75b6&style=flat" alt="amirsouaf" /> </p>
 
 <p align="left"> <a href="https://twitter.com/am3r02230942" target="blank"><img src="https://img.shields.io/twitter/follow/am3r02230942?logo=twitter&style=for-the-badge" alt="am3r02230942" /></a> </p>
 
