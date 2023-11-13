@@ -1,9 +1,10 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
+<img height="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="amirsouaf" />
 <h1 align="center">Hi 👋, I'm Amir Souaf</h1>
 <h3 align="center">Web & IT Dev | Lifelong Learner | Tech Enthusiast | Code Explorer</h3>
 
 
-<p align="left"> <img height="250px" src="https://komarev.com/ghpvc/?username=amirsouaf&label=Profile%20views&color=0e75b6&style=flat" alt="amirsouaf" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amirsouaf&label=Profile%20views&color=0e75b6&style=flat" alt="amirsouaf" /> </p>
 
 <p align="left"> <a href="https://twitter.com/am3r02230942" target="blank"><img src="https://img.shields.io/twitter/follow/am3r02230942?logo=twitter&style=for-the-badge" alt="am3r02230942" /></a> </p>
 
