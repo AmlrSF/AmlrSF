@@ -28,11 +28,11 @@
 
 
 <div style="width:100%; display:block;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirsouaf&show_icons=true&locale=en&layout=compact" alt="amirsouaf" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmlrSF&show_icons=true&locale=en&layout=compact" alt="amirsouaf" />
 </div>
 
 <div style="width:100%;">
     &nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=amirsouaf&show_icons=true&locale=en" alt="amirsouaf" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmlrSF&show_icons=true&locale=en" alt="amirsouaf" />
 </div>
 
