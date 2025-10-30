@@ -1,4 +1,7 @@
-                                                                  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/83378141/119193317-7438e300-ba4f-11eb-8b73-2ddb4fc84af5.gif" alt="Amir Souaf Banner" width="800"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Amir Souaf</h1>
 <h3 align="center">Web & IT Dev | Lifelong Learner | Tech Enthusiast | Code Explorer</h3>
 
