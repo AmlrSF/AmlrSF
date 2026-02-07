@@ -10,13 +10,13 @@
 
 <p align="left"> <a href="https://twitter.com/am3r02230942" target="blank"><img src="https://img.shields.io/twitter/follow/am3r02230942?logo=twitter&style=for-the-badge" alt="am3r02230942" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce app**
+- 🔭 I’m currently working on **Trip Hive**
 
-- 🌱 I’m currently learning **Angular Js,Java**
+- 🌱 I’m currently learning **Nextjs, Angular Js, springBoot**
 
 - 💬 Ask me about **MEAN,MERN**
 
-- 📫 How to reach me **amirsouaf2@gmail.com**
+- 📫 How to reach me **amirsouaf1212@gmail.com**
 
 - ⚡ Fun fact **In addition to my love for coding, I'm also a die-hard football fan! I enjoy watching and playing football in my free time.**
 
