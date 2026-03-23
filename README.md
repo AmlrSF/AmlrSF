@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on [Trip Hive](https://trip-hive.com)
+- 🔭 I’m currently working on Trip Hive
 
 - 🌱 I’m currently learning **Microservices Architecture, Cloud Infrastructure (AWS), System Design**
 
@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with **System Architecture Optimization & DevOps Scaling**
 
-- 👨‍💻 All of my projects are available at [https://amirsouafto.vercel.app/](https://amir-souaf.vercel.app)
+- 👨‍💻 All of my projects are available at [portfolio](https://amir-souaf.vercel.app)
 
 - 💬 Ask me about **next.js, Angular, Next.js, MongoDB, Docker, Clean Architecture**
 
