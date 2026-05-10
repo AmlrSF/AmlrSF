@@ -1,5 +1,5 @@
 <p align="center">
-  ![Header](./your-header-image-name.png)
+  ![Header](./github-header-banner.png)
 </p>
 
 <h1 align="center">Hi 👋, I'm Amir SF</h1>
