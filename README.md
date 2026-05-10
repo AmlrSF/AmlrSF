@@ -1,7 +1,6 @@
 <p align="center">
-   ![Header](github-header-banner.png)
+  <img src="github-header-banner.png" alt="Header" />
 </p>
-
 - 🔭 I’m currently working on Trip Hive
 
 - 🌱 I’m currently learning **Microservices Architecture, Cloud Infrastructure (AWS), System Design**
