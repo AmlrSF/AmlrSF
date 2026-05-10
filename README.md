@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **System Architecture Optimization & DevOps Scaling**
 
-- 👨‍💻 All of my projects are available at [portfolio](https://amir-souaf.vercel.app)
+- 👨‍💻 All of my projects are available at [portfolio](https://amirsouaf.me)
 
 - 💬 Ask me about **next.js, Angular, Next.js, MongoDB, Docker, Clean Architecture**
 
